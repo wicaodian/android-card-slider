@@ -1,3 +1,7 @@
+![Alt Text](https://github.com/wicaodian/android-card-slider/blob/main/demo.gif)
+
+
+
 # CARDSLIDER [JAVA/Kotlin]
 Material design UI controller that allows to swipe through cards with pictures and descriptions
 
