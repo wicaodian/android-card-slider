@@ -10,8 +10,9 @@ credit to [original author](https://github.com/Ramotion/cardslider-android)
 I just updated the library since they were not updating it anymore.
 Converted their library to Kotlin Thanks to [armancodv](https://github.com/armancodv) for his pull-request
 
-I just fixed the old gradle build issues and make it working with the latest gradle and kotlin version.
-together we can keep it improving
+
+I've successfully updated our project to resolve previous Gradle build issues,
+ensuring compatibility with the latest versions of Gradle and Kotlin.
 
 ## Basic Usage
 `CardSlider` is a custom `LayoutManager` for `RecyclerView`. You can attach it to RecyclerView from code or XML layout.
