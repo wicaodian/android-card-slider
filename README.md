@@ -8,7 +8,7 @@ Material design UI controller that allows to swipe through cards with pictures a
 credit to [original author](https://github.com/Ramotion/cardslider-android)
 
 I just updated the library since they were not updating it anymore.
-Converted their library to Kotlin Thanks to [armancodv](https://github.com/armancodv) for his pullrequest
+Converted their library to Kotlin Thanks to [armancodv](https://github.com/armancodv) for his pull-request
 
 I just fixed the old gradle build issues and make it working with the latest gradle and kotlin version.
 together we can keep it improving
@@ -35,3 +35,12 @@ protected void onCreate(Bundle savedInstanceState) {
 }
 ```
 
+## Future Support
+
+Please note that while I'm committed to maintaining the project for now, I may not be able to provide long-term support. 
+I encourage the community to step in and help keep the project alive and thriving. 
+Your contributions and support can make a big difference!
+
+If you're interested in taking a more active role in maintaining this project, please reach out. I'd love to hear from anyone willing to help.
+
+Thank you for your interest and support!
